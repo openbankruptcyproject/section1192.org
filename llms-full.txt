@@ -1220,7 +1220,7 @@ American Bankruptcy Institute - "The Small Business Reorganization Act: A Statis
 
 National Conference of Bankruptcy Judges - Annual survey data on Subchapter V
 
-The Open Bankruptcy Project maintains research data covering 4.9 million federal bankruptcy cases. Explore: 1328f.org research platform
+The Open Bankruptcy Project maintains research data covering 8 million federal bankruptcy cases. Explore: 1328f.org research platform
 
 Stay updated on new datasets and research findings
 

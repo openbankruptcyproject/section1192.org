@@ -23,4 +23,4 @@ section1192.org is part of the Open Bankruptcy Project (openbankruptcyproject.or
 - GitHub: https://github.com/openbankruptcyproject
 
 ## License
-Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (8M cases, 94 districts).
