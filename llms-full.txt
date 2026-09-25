@@ -79,7 +79,7 @@ Expense standardsIRS allowancesReasonable actual expenses
 
 Commitment period3 or 5 years (based on median)3-5 years (flexible)
 
-Debt limit~$2.75M (combined)$7.5M
+Debt limitUnder $526,700 unsecured / $1,580,125 secured$3,424,000
 
 Business expensesLimited recognitionFull recognition
 
@@ -655,13 +655,13 @@ Success Rates
 
 Subchapter V Eligibility
 
-The $7.5 million debt limit, the 50% business activity threshold, and who is excluded from Subchapter V.
+The $3,424,000 debt limit, the 50% business activity threshold, and who is excluded from Subchapter V.
 
 Home›Section 1192 Cramdown›Subchapter V Eligibility
 
 The Debt Limit
 
-To qualify as a "small business debtor" under Section 101(51D), the debtor must have aggregate noncontingent liquidated debts not exceeding $7,500,000.
+To qualify as a "small business debtor" under Section 101(51D), the debtor must have aggregate noncontingent liquidated debts not exceeding $3,424,000 (as adjusted April 1, 2025).
 
 Key definitions:
 
@@ -671,7 +671,7 @@ Liquidated: The amount can be readily determined. A contract debt for $50,000 is
 
 Aggregate: All debts are combined - secured and unsecured, priority and general.
 
-History: The original SBRA set the limit at $2,725,625. The CARES Act (2020) temporarily raised it to $7,500,000 in response to COVID-19. The Bankruptcy Threshold Adjustment and Technical Corrections Act (2022) made the $7.5 million limit permanent.
+History: The original SBRA set the limit at $2,725,625. The CARES Act (2020) temporarily raised it to $7,500,000 in response to COVID-19. The Bankruptcy Threshold Adjustment and Technical Corrections Act (2022) extended the $7.5 million limit for two more years, and it expired on June 21, 2024. The limit then reverted to the inflation-adjusted SBRA amount, now $3,424,000.
 
 The 50% Business Activity Requirement
 
@@ -1206,7 +1206,7 @@ No absolute priority rule - Owners retain equity, preserving the incentive to re
 
 Trustee facilitation - A neutral professional helps negotiate consensus
 
-Higher debt limit - $7.5 million covers the vast majority of small businesses
+Higher debt limit - $3,424,000 covers most small businesses
 
 Research and Citations
 
@@ -1614,7 +1614,7 @@ When Traditional Chapter 11 Is Better
 
 Subchapter V is not always the right choice. Traditional Chapter 11 may be preferable when:
 
-Debts exceed $7.5 million - the debtor does not qualify for Subchapter V
+Debts exceed $3,424,000 - the debtor does not qualify for Subchapter V
 
 Complex multi-party disputes require a creditor committee to negotiate
 
