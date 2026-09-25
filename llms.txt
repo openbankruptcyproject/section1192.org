@@ -1,5 +1,5 @@
 # Section 1192 Subchapter V Discharge - Guide [2026]
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 > Section 1192 governs discharge in Subchapter V small business cases. Nondischargeable debts, plan completion, and 2026 case law guide.
 
@@ -7,15 +7,17 @@
 section1192.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Subchapter V Cramdown - Section 1191(b) Nonconsensual Confirmation: https://section1192.org/cramdown.html
-- Subchapter V Discharge Timing - When Does the Discharge Occur?: https://section1192.org/discharge-timing.html
-- Disposable Income in Subchapter V - Section 1191(c)(2): https://section1192.org/disposable-income.html
-- Subchapter V Eligibility - Debt Limit and Requirements: https://section1192.org/eligibility.html
+- Subchapter V Cramdown [2026]: 11 USC 1191(b) Nonconsensual Plan Confirmation: https://section1192.org/cramdown.html
+- Subchapter V Discharge Timing [2026]: 11 USC 1192 Plan Completion vs Confirmation Discharge: https://section1192.org/discharge-timing.html
+- Subchapter V Disposable Income [2026]: 11 USC 1191(c)(2) Projected Disposable Income Standard: https://section1192.org/disposable-income.html
+- Subchapter V Eligibility [2026]: 11 USC 1182 Debt Limit and Small Business Debtor Definition: https://section1192.org/eligibility.html
 - Section 1192 Subchapter V Discharge - Guide: https://section1192.org/
-- Subchapter V Success Rates - Federal Court Statistics: https://section1192.org/success-rates.html
-- Subchapter V Trustee - Role and Responsibilities: https://section1192.org/trustee-role.html
-- Subchapter V vs Traditional Chapter 11 - Comparison: https://section1192.org/vs-traditional-11.html
+- Subchapter V Success Rates [2026]: Federal Judicial Center Confirmation and Discharge Data: https://section1192.org/success-rates.html
+- Subchapter V Trustee [2026]: 11 USC 1183 Appointed Role and 1194 Distribution Duties: https://section1192.org/trustee-role.html
+- Subchapter V vs Traditional Chapter 11 [2026]: Speed, Cost, and Cramdown Standard Compared: https://section1192.org/vs-traditional-11.html
 - Privacy Policy: https://section1192.org/privacy.html
+- About section1192.org: https://section1192.org/about.html
+- Section 1192 Caselaw Map - Subchapter V Discharge: https://section1192.org/caselaw.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

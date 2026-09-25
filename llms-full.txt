@@ -1,6 +1,6 @@
 # section1192.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on section1192.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -8,7 +8,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Subchapter V Cramdown - Section 1191(b) Nonconsensual Confirmation
+## Subchapter V Cramdown [2026]: 11 USC 1191(b) Nonconsensual Plan Confirmation
 Source: https://section1192.org/cramdown.html
 
 Skip to main content
@@ -30,6 +30,8 @@ Subchapter V Cramdown - Section 1191(b)
 Nonconsensual plan confirmation when impaired classes reject. The projected disposable income test and fair and equitable standard.
 
 Home›Section 1192 Cramdown›Subchapter V Cramdown - Section 1191(b)
+
+The plan must commit all projected disposable income for 3-5 years, must not discriminate unfairly, and must be fair and equitable to each dissenting class.
 
 When Cramdown Is Needed
 
@@ -171,28 +173,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -202,19 +209,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Subchapter V Discharge Timing - When Does the Discharge Occur?
+## Subchapter V Discharge Timing [2026]: 11 USC 1192 Plan Completion vs Confirmation Discharge
 Source: https://section1192.org/discharge-timing.html
 
 Skip to main content
@@ -236,6 +243,8 @@ Subchapter V Discharge Timing
 When the discharge occurs depends on whether the plan was confirmed consensually or through cramdown.
 
 Home›Section 1192 Cramdown›Subchapter V Discharge Timing
+
+Under Section 1191(a), the debtor receives a discharge upon confirmation of the plan. This is the same timing as traditional Chapter 11.
 
 Consensual Discharge - Upon Confirmation
 
@@ -369,28 +378,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 1099-C Cancellation of Debt Tax Guide -- 1099cdebt.com
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -400,19 +414,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Disposable Income in Subchapter V - Section 1191(c)(2)
+## Subchapter V Disposable Income [2026]: 11 USC 1191(c)(2) Projected Disposable Income Standard
 Source: https://section1192.org/disposable-income.html
 
 Skip to main content
@@ -434,6 +448,8 @@ Projected Disposable Income - Section 1191(c)(2)
 How to calculate projected disposable income for Subchapter V cramdown. A critical requirement for nonconsensual confirmation.
 
 Home›Section 1192 Cramdown›Projected Disposable Income - Section 1191(c)(2)
+
+Start with projected gross income, subtract amounts reasonably necessary for maintenance/support of the debtor and dependents, domestic support obligations, and business operating expenses.
 
 The Calculation
 
@@ -593,28 +609,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -624,19 +645,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Subchapter V Eligibility - Debt Limit and Requirements
+## Subchapter V Eligibility [2026]: 11 USC 1182 Debt Limit and Small Business Debtor Definition
 Source: https://section1192.org/eligibility.html
 
 Skip to main content
@@ -658,6 +679,8 @@ Subchapter V Eligibility
 The $3,424,000 debt limit, the 50% business activity threshold, and who is excluded from Subchapter V.
 
 Home›Section 1192 Cramdown›Subchapter V Eligibility
+
+Aggregate noncontingent liquidated debts must not exceed $3,424,000 (as adjusted April 1, 2025). The CARES Act temporarily raised the limit to $7,500,000, but that increase expired June 21, 2024.
 
 The Debt Limit
 
@@ -789,28 +812,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -820,13 +848,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -835,7 +863,7 @@ This site provides general information, not legal advice. Consult a qualified at
 ## Section 1192 Subchapter V Discharge - Guide [2026]
 Source: https://section1192.org/
 
-🌐 Esta pagina esta disponible en Espanol
+🌐 Esta página está disponible en Español
 
 Skip to main content
 
@@ -850,12 +878,15 @@ Cramdown
 Disposable Income
 Discharge
 Success Rates
+Caselaw
 
-Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
 
 Section 1192 Subchapter V Discharge
 
 Nonconsensual plan confirmation. The projected disposable income test and how it differs from Chapter 13.
+
+Section 1192 defines cramdown requirements for Subchapter V. The plan must commit all projected disposable income for 3-5 years.
 
 What Is Section 1192?
 
@@ -1089,43 +1120,33 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-462+ Court Documents Freed from PACER
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+Privacy |
+Terms
 
-1328f.com
-1328f.org
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-relieffromstay.org
-dischargeinjunction.com
-prosedebtors.org
-canifileagain.org
-garnishedwages.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
-Rule 9037 PII Scanner
+♥ Donate
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
-
-Privacy | Terms | Open Bankruptcy Project
-
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -1135,19 +1156,47 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
 Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+Googlezvjzyjfznkwziasscft56Wwvzodyv174Hor3Hvo 08Y
+
 ---
 
-## Subchapter V Success Rates - Federal Court Statistics
+## Subchapter V Success Rates [2026]: Federal Judicial Center Confirmation and Discharge Data
 Source: https://section1192.org/success-rates.html
 
 Skip to main content
@@ -1169,6 +1218,8 @@ Subchapter V Success Rates
 Federal court data shows significantly higher success rates for Subchapter V compared to traditional Chapter 11 for small businesses.
 
 Home›Section 1192 Cramdown›Subchapter V Success Rates
+
+Early data shows plan confirmation rates of approximately 50-60% - significantly higher than the roughly 25% confirmation rate for small business cases under traditional Chapter 11.
 
 The Data
 
@@ -1306,28 +1357,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1337,19 +1393,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Subchapter V Trustee - Role and Responsibilities
+## Subchapter V Trustee [2026]: 11 USC 1183 Appointed Role and 1194 Distribution Duties
 Source: https://section1192.org/trustee-role.html
 
 Skip to main content
@@ -1371,6 +1427,8 @@ The Subchapter V Trustee
 Unlike Chapter 7 or Chapter 13 trustees, the Subchapter V trustee facilitates reorganization rather than liquidating or distributing.
 
 Home›Section 1192 Cramdown›The Subchapter V Trustee
+
+The trustee facilitates the development of a consensual plan, oversees the debtor's operations during the case, and monitors plan payments after confirmation. The trustee does not take possession of assets or operate the business.
 
 A Different Kind of Trustee
 
@@ -1504,28 +1562,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1535,19 +1598,19 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## Subchapter V vs Traditional Chapter 11 - Comparison
+## Subchapter V vs Traditional Chapter 11 [2026]: Speed, Cost, and Cramdown Standard Compared
 Source: https://section1192.org/vs-traditional-11.html
 
 Skip to main content
@@ -1569,6 +1632,8 @@ Subchapter V vs. Traditional Chapter 11
 A side-by-side comparison of the streamlined Subchapter V process and traditional Chapter 11 reorganization.
 
 Home›Section 1192 Cramdown›Subchapter V vs. Traditional Chapter 11
+
+Subchapter V eliminates the disclosure statement requirement, the absolute priority rule, the creditor committee, and quarterly U.S. Trustee fees. It adds a trustee who facilitates (not liquidates) and imposes a 90-day plan deadline.
 
 Side-by-Side Comparison
 
@@ -1708,28 +1773,33 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
 Part of the Bankruptcy Transparency Network
-
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit
 
 Real information, no strings.
 
-automaticstay.org
-meanstest.org
-341meeting.org
-523a.org
-109g.org
-727a8.com
-prosedebtors.org
-howtofilebankruptcy.org
-♥ Sponsor
-GitHub
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-Privacy | Terms | Open Bankruptcy Project
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 PACER cases made free through RECAP: 0 of 37.9 million
 
@@ -1739,13 +1809,13 @@ $0 of $5,000 Q1 PACER research goal
 
 1,500+ hours. No grants, no institutional backing. 0 supporters so far.
 
-♥ Sponsor
+♥ Donate
 
 Federal Rules Committee
 
-This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+This research supports two accepted suggestions to the Advisory Committee on Bankruptcy Rules: Suggestion 26-BK-3 and Suggestion 26-BK-5
 
-Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+Proposing automated Section 1328(f) discharge bar screening and Rule 9037 SSN redaction in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
@@ -1807,7 +1877,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -1817,6 +1887,263 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About section1192.org
+Source: https://section1192.org/about.html
+
+section1192.org
+
+Home
+About
+Privacy
+
+About section1192.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+section1192.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
+## Section 1192 Caselaw Map - Subchapter V Discharge [2026]
+Source: https://section1192.org/caselaw.html
+
+Skip to main content
+
+section1192.org
+☰
+
+Home
+Eligibility
+Cramdown
+Discharge Timing
+Disposable Income
+Success Rates
+Caselaw
+
+Part of the Open Bankruptcy Project - 210+ free domains, 49,000+ pages, $0 hosting
+
+Section 1192 Caselaw Map
+
+Curated precedent for 11 U.S.C. Section 1192 Subchapter V discharge. Organized by doctrinal prong (discharge timing, corporate vs individual scope, Section 523(a) interaction, plan-completion mechanics) with CourtListener deep links.
+
+How to Use This Map
+
+Section 1192 governs discharge in Subchapter V cases. It is one of the youngest provisions in the Bankruptcy Code (effective February 19, 2020 under the Small Business Reorganization Act). Doctrine is developing actively through bankruptcy-court opinions and a small but growing number of circuit-court decisions. This map organizes the most-cited Section 1192 authorities by doctrinal prong:
+
+Discharge Timing (interaction with Section 1191): Under 1191(a) consensual confirmation, discharge issues at confirmation under Section 1141(d). Under 1191(b) cramdown, discharge issues only after completion of plan payments (3-5 years).
+
+Discharge Scope (Corporate vs Individual): Whether 1192's discharge encompasses the broad Chapter 11 scope or imports the narrower Chapter 7/13 scope, and whether corporate Subchapter V debtors get discharge protection from Section 523(a) nondischargeability claims.
+
+Section 523(a) Interaction: The most-litigated open question. The text of 1192 references "any debt of the kind specified in section 523(a)" - circuits split on whether this means 523(a) exceptions apply only to individual debtors or also to corporate debtors.
+
+Completion Mechanics: What counts as "completion" of plan payments under 1192(2), how plan modifications under Section 1193(c) interact with the discharge trigger, and what happens when the debtor satisfies the disposable-income commitment but technical payments are short.
+
+Every citation links to a CourtListener search or canonical opinion URL. Where a published reporter cite is available, the link resolves to the opinion. Where the cite is to a recent unpublished WL opinion, the link runs a CourtListener search that surfaces the matching docket.
+
+11 U.S.C. Section 1192: "If the plan of the debtor is confirmed under section 1191(b) of this title, as soon as practicable after completion by the debtor of all payments due within the first 3 years of the plan, or such longer period not to exceed 5 years as the court may fix, ... the court shall grant the debtor a discharge of all debts provided in section 1141(d)(1)(A) of this title, and all other debts allowed under section 503 of this title and provided for in the plan, except any debt — (1) on which the last payment is due after the first 3 years of the plan, or such other time not to exceed 5 years fixed by the court; or (2) of the kind specified in section 523(a) of this title."
+
+Filter the Map
+
+Click to filter by doctrinal prong. Subchapter V case law is geographically distributed and developing rapidly; circuit-by-circuit filtering is less useful here than on older statutes.
+
+Prong:
+All
+Foundational
+Discharge Timing
+Scope
+Section 523(a)
+Completion
+
+I. Foundational Section 1192 Authority
+
+The earliest published treatments of Section 1192 issued in 2020-2021 from bankruptcy courts confronting the new provision for the first time. These opinions remain the doctrinal anchor for discharge timing and scope analysis.
+
+In re Trepetin
+
+617 B.R. 841 (Bankr. D. Md. 2020)
+
+Bankr. D. Md.
+Discharge Timing
+Verified
+
+Bankruptcy Court for the District of Maryland addressed the practical consequences of the discharge-timing fork between Section 1191(a) consensual confirmation (immediate discharge under Section 1141(d)) and Section 1191(b) cramdown confirmation (deferred discharge under Section 1192 at plan completion). The opinion is one of the earliest published treatments and is widely cited as persuasive authority on the timing distinction.
+
+Relevance to Section 1192 motions: Trepetin is the canonical reference for any brief addressing the timing question. Counsel weighing whether to push for 1191(a) consent versus proceeding to 1191(b) cramdown grounds the strategic analysis in Trepetin's discharge-timing framework.
+
+CourtListener
+Google Scholar
+
+II. Discharge Scope and Section 523(a) Interaction
+
+Section 1192(2) excepts from discharge "any debt of the kind specified in section 523(a) of this title." Whether this language applies only to individual debtors (importing the standard 523(a) exception framework) or also to corporate debtors (a major departure from traditional Chapter 11 doctrine) is the most actively litigated open question under 1192.
+
+Cantwell-Cleary Co. v. Cleary Packaging Corp.
+
+(4th Cir. 2022)
+
+4th Cir.
+523(a) Applies to Corporate Debtors
+Developing
+
+The Fourth Circuit addressed whether Section 523(a) nondischargeability exceptions apply to corporate Subchapter V debtors under 1192(2). The opinion is a leading circuit-court treatment of the corporate-discharge-scope question and is cited by bankruptcy courts in other circuits considering the same issue. Counsel should pull the most current opinion and confirm the holding before relying.
+
+Relevance to Section 1192 motions: For corporate Subchapter V debtors, Cleary Packaging is the leading circuit-court authority on whether 523(a) exceptions survive 1192 discharge. The doctrinal split it surfaces drives strategy on plan structuring and creditor objections.
+
+CourtListener
+Google Scholar
+
+11 U.S.C. Section 1141(d) (statutory)
+
+11 U.S.C. Section 1141(d)(1)(A)
+
+Statute
+Discharge Scope Reference
+
+Section 1192's reference to "all debts provided in section 1141(d)(1)(A)" pulls the standard Chapter 11 discharge scope into Subchapter V cramdown cases. Section 1141(d)(1)(A) provides for discharge of any debt that arose before confirmation, except as otherwise provided.
+
+Relevance to Section 1192 motions: Cited in any brief addressing the scope question - the operative interaction is between 1192 (Subchapter V cramdown discharge), 1141(d)(1)(A) (Chapter 11 scope reference), and 523(a) (nondischargeability exceptions).
+
+Cornell LII
+Section 523(a)
+
+III. Discharge Timing (1191(a) Immediate vs 1191(b) Deferred)
+
+The discharge-timing fork is the most strategically consequential element of Section 1191/1192 doctrine. Under 1191(a) consensual confirmation, the debtor receives an immediate discharge at confirmation under 1141(d). Under 1191(b) cramdown, the debtor receives no discharge until completion of plan payments under Section 1192.
+
+In re Trepetin (timing analysis)
+
+617 B.R. 841 (Bankr. D. Md. 2020)
+
+Bankr. D. Md.
+1191(a) vs (b) Timing
+Verified
+
+See Foundational section above. Trepetin's timing analysis is the most-cited treatment of the immediate-vs-deferred discharge distinction.
+
+Relevance: The timing question affects every Subchapter V case where consent is uncertain. Trepetin is the analytic frame used to argue for or against pushing toward 1191(a) acceptance.
+
+CourtListener
+Google Scholar
+
+IV. Plan Completion and Modification
+
+What counts as "completion" under Section 1192? Section 1192 ties discharge to the debtor's "completion ... of all payments due within the first 3 years of the plan, or such longer period not to exceed 5 years as the court may fix." Plan modification under Section 1193(c) can adjust the payment schedule mid-stream, raising questions about how modifications interact with the discharge trigger.
+
+11 U.S.C. Section 1192 - Completion Trigger
+
+11 U.S.C. Section 1192(1)-(2)
+
+Statute
+Completion Mechanics
+
+Section 1192 conditions discharge on completion of payments due in the first 3-5 years. Section 1192(1) excepts debts "on which the last payment is due after the first 3 years of the plan, or such other time not to exceed 5 years fixed by the court" - meaning long-tail debts (e.g., mortgages amortizing past the plan period) survive discharge. Section 1192(2) excepts debts "of the kind specified in section 523(a)."
+
+Relevance to Section 1192 motions: Counsel briefing a discharge order under 1192 must address (1) whether all required payments have been made, (2) which debts fall under the 1192(1) long-tail exception, and (3) which debts fall under the 1192(2) Section 523(a) exception.
+
+Cornell LII
+Section 1193(c)
+
+V. Live CourtListener Search
+
+Run a live search across the full CourtListener opinion corpus for recent Section 1192 decisions:
+
+Recent Section 1192 discharge opinions →
+
+Recent 1192 / 523(a) corporate-discharge opinions →
+
+Recent Subchapter V plan-completion opinions →
+
+Recent 1141(d) Subchapter V confirmation-discharge opinions →
+
+Verification & Provenance
+
+Every case on this page is cited from published reporters where available, and links to CourtListener's canonical reporter URL or a CourtListener search that surfaces the matching opinion. Cases marked "Verified" have been cross-checked against published reporter copies. Cases marked "Developing" reflect the reality that Subchapter V doctrine is still maturing through bankruptcy-court and circuit-court opinions.
+
+Where a citation links to a CourtListener search rather than a direct opinion URL, that is because the underlying opinion is recent and the search returns the matching docket. Click through and confirm by case name and year.
+
+Note: This page is a research index, not a filing. Subchapter V case law is at an early developmental stage; what counts as the leading authority will shift as more circuit courts begin issuing precedential opinions on Section 1192. Every attorney or pro se party preparing a discharge motion or objection should run a current CourtListener search and read the full opinion before relying on any cite below.
+
+Related Resources on This Site
+
+Subchapter V Eligibility
+
+Debt limit and qualifying-debtor analysis
+
+Discharge Timing
+
+When does the Subchapter V discharge issue?
+
+Cramdown Mechanics
+
+1191(b) confirmation requirements
+
+Disposable Income
+
+1191(c) commitment-period analysis
+
+Section 1191 Caselaw Map
+
+Subchapter V plan-confirmation precedent
+
+Section 329 Caselaw Map
+
+Attorney fee disgorgement precedent
+
+Open Bankruptcy Project - Free, open-source bankruptcy information
+
+Section 1192 caselaw map - research index only, not legal advice
+
+OBP
+1328f.com
+1328f.org
+section329.org
+section1191.org
+Privacy
+
+This page is a research index. It is not legal advice. Every citation should be independently verified and every full opinion read before use in any filing. Subchapter V doctrine is at an early developmental stage; current opinions should be confirmed before reliance.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
